@@ -25,7 +25,7 @@ body {
   width: 95%;
   height: 100%;
   margin: 0 auto;
-  background-image: url(/images/bg-curve-desktop.svg);
+  background-image: url(./images/bg-curve-desktop.svg);
   /* text-align: center; */
 }
 
