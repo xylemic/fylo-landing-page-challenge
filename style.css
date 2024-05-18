@@ -63,7 +63,7 @@ nav ul {
 }
 
 nav ul li {
-  margin-right: 30px;
+  margin-right: 8px;
 }
 
 nav ul li:last-child {
@@ -72,16 +72,12 @@ nav ul li:last-child {
 
 nav ul a {
   text-decoration: none;
-  color: #bdbafa;
+  color: #333;
   transition: 0.3s ease-in-out;
 }
 
 nav ul a:hover {
-  color: #333;
-  /* text-decoration: underline; */
-  background-color: #a5a0fc;
-  padding: 5px;
-  border-radius: 5px;
+  text-decoration: underline;
 }
 
 /* hero section */
